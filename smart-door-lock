@@ -1,0 +1,26 @@
+# 🔐 Smart Door Lock System
+
+An IoT-enabled smart lock that allows remote control via a mobile app, enhancing home security using ESP32 and a solenoid lock.
+
+## ⚙️ Technologies Used
+- ESP32 microcontroller
+- Blynk mobile app
+- Arduino IDE
+- Relay Module
+- Solenoid Lock
+
+## 🔑 Features
+- Remote lock/unlock control from smartphone
+- Real-time status monitoring
+- Secure hardware integration
+- WiFi-enabled connectivity
+
+## 🛠️ Setup Instructions
+1. Connect ESP32 with Relay + Solenoid Lock.
+2. Upload Arduino sketch using Arduino IDE.
+3. Configure Blynk app with authentication token.
+4. Connect ESP32 to WiFi and control the lock via Blynk.
+
+## 👨‍💻 Author
+**K Laxman Reddy**  
+[LinkedIn](https://linkedin.com/in/k-laxman-reddy-0399361aa)
